@@ -1,0 +1,18 @@
+[
+	{
+		"idPais": "CL",
+		"name": "Chile"
+	},
+	{
+		"idPais": "CO",
+		"name": "Colombia"
+	},
+	{
+		"idPais": "AR",
+		"name": "Argentina"
+	},
+	{
+		"idPais": "BR",
+		"name": "Brasil"
+	}
+]
